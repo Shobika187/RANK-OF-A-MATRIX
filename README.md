@@ -18,7 +18,8 @@ rk=np.linalg.matrix_rank(A)
 print(rk)
 ```
 ## Output:
-![Output](.//Output 1.png)
+![Output 1](.//image.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
